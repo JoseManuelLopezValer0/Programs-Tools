@@ -2,12 +2,14 @@
 
 ## Herramientas
 
-[Activation][Activation] windows-Office
-Descarga de Office 2021 Pro Plus [x64][64] y [x86][86]
+- [Activation][Activation] windows(10/11) & Office.
+- Descarga de Office 2021 Pro Plus.
+  - [x64][64]
+  - [x86][86]
 
 ## Programas
 
-Descarga de [Spotify][spotify] y activación
+- Descarga de [Spotify][spotify] y activación.
 
 
 [Activation]: Herramientas/Online/Activation%20windows-Office.cmd
