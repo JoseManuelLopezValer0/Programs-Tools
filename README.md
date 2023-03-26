@@ -2,9 +2,15 @@
 
 ## Herramientas
 
-[Activation](https://github.com/JoseManuelLopezValer0/Programs-Tools/blob/main/Herramientas/Online/Activation%20windows-Office.bat) windows-Office
-Descarga de Office 2021 Pro Plus [x64](https://github.com/JoseManuelLopezValer0/Programs-Tools/blob/main/Herramientas/Online/Download%20Office%20ProPlus%20x64.bat) y [x86](https://github.com/JoseManuelLopezValer0/Programs-Tools/blob/main/Herramientas/Online/Download%20Office%20ProPlus%20x32.bat)
+[Activation][Activation] windows-Office
+Descarga de Office 2021 Pro Plus [x64][64] y [x86][86]
 
 ## Programas
 
-Descarga de [Spotify](https://github.com/JoseManuelLopezValer0/Programs-Tools/blob/main/Programas/Spotify.bat) y activación
+Descarga de [Spotify][spotify] y activación
+
+
+[Activation]: Herramientas/Online/Activation%20windows-Office.cmd
+[64]: Herramientas/Online/Download%20Office%20ProPlus%20x64.bat
+[86]: Herramientas/Online/Download%20Office%20ProPlus%20x32.bat
+[spotify]: Programas/Spotify.ps1
